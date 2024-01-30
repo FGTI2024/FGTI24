@@ -9,16 +9,16 @@
 ## Preprocessing each dataset
 0. Enter the "Code" folder
 
-1. For get KDD dataset:
+1. To get KDD dataset:
 ```
 python loadKddDataset.py
 ```
 
-2. For get Guangzhou dataset:
+2. To get Guangzhou dataset:
 ```
 python loadGuangzhouDataset.py
 ```
-3. For get PhysioNet dataset:
+3. To get PhysioNet dataset:
 ```
 python loadPhysioDataset.py
 ```
