@@ -33,7 +33,7 @@ python A_diffusion_train.py --dataset guangzhou --missing_rate 0.1 --enc_in 214 
 ```
 
 ```
-python A_diffusion_train.py --dataset physio  --enc_in 37 --c_out 37
+python A_diffusion_train.py --dataset physio  --missing_rate 0.1 --enc_in 37 --c_out 37
 ```
 
 ## Dataset Sources
